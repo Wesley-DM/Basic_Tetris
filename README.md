@@ -31,7 +31,7 @@ I built this project as a way to practice basic game mechanics like object movem
    ```
 3. Run the game:
    ```
-   [Instructions for running the game depending on the language/framework]
+   Runnable jar file included
    ```
 
 ## What’s Next:
